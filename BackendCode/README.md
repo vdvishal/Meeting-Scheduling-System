@@ -1,2 +1,2 @@
 ## Meeting Planner
-This project is a deploy meetings scheduling system.
+Contains the backend code for the project.
